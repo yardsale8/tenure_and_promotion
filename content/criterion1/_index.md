@@ -33,7 +33,7 @@ To illustrate my approach of blending
 [instructional innovation with the assessment of student learning]({{<relref path="instructional_innovation.md">}}), 
 I will start with a discussion of
 changes made to various face-to-face and online sections of STAT 110
-Fundamentals of Statistic, including implementing the flipped classroom,
+Fundamentals of Statistics, including implementing the flipped classroom,
 developing an online interactive set of course notes, adapting to both
 asynchronous and synchronous online courses, implementing an innovative and
 effective assessment scheme, and using informal in-class assessment of
