@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: Testimonials
+linktitle: Testimonials and CV
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 
@@ -28,3 +28,5 @@ In support of my application for I offer the following letters of support.
 * [Dr. Tisha Hooks, Professor, Winona State University](/testimonial/hooks_letter_of_support.pdf)
 * [Dr. Kelly McConville, Assistant Professor of Statistics, Reed College](/testimonial/mcconville_letter_of_support.pdf)
 * [Mariah Quam, graduate of the WSU data science program](/testimonial/quam_letter_of_support.pdf)
+
+[Curriculum Vitae](/testimonial/vitae_iverson_feb2021.pdf)
